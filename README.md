@@ -1,14 +1,31 @@
-Hi, I'm Bavan Kumar! 👋  
-👨‍💻 Aspiring Data Analyst  
+# Hi, I'm Bavan Kumar! 👋
 
-Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.  
-Built end-to-end analytics projects involving **data cleaning, SQL modeling, automation, and interactive dashboards**, with a strong focus on **supply chain and sales performance analysis**.
+## 👨‍💻 Aspiring Data Analyst
 
-🛠️ My Tech Stack  
-• Languages: Python (Pandas, NumPy, Matplotlib, Automation), SQL (MySQL, PostgreSQL)  
-• Visualization: Power BI, Tableau  
-• Tools: Jupyter Notebook, Excel, Git/GitHub, MySQL Workbench  
+Aspiring Data Analyst with hands-on experience in **Python, SQL, and Power BI**.  
+Built **end-to-end analytics projects** involving data cleaning, SQL modeling, automation, and interactive dashboards, with a strong focus on **supply chain and sales performance analysis**.
 
-📫 Let's Connect!  
-• LinkedIn  
-• Email: ksvbavan99@gmail.com  
+---
+
+## 🛠️ My Tech Stack
+
+**Languages**
+- Python (Pandas, NumPy, Matplotlib, Automation)
+- SQL (MySQL, PostgreSQL)
+
+**Visualization**
+- Power BI
+- Tableau
+
+**Tools**
+- Jupyter Notebook
+- Excel
+- Git/GitHub
+- MySQL Workbench
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** https://linkedin.com/in/bavan-ksv  
+- **Email:** ksvbavan99@gmail.com
