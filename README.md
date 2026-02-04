@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bavan Kumar! 👋
 
-<!--
-**Ksvbavan/Ksvbavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Data Analyst 
+I specialize in transforming raw data into strategic business insights using Python, SQL, and Power BI. I enjoy solving complex supply chain and sales problems through data storytelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Automation), SQL (MySQL, PostgreSQL)
+- **Visualization:** Power BI, Tableau
+- **Tools:** Jupyter Notebook, Excel, Git/GitHub, MySQL Workbench
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/bavan-ksv)
+- Email: ksvbavan99@gmail.com
