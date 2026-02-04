@@ -1,8 +1,8 @@
 # Hi, I'm Bavan Kumar! 👋
 
 ### 👨‍💻 Aspiring Data Analyst 
-I specialize in transforming raw data into strategic business insights using Python, SQL, and Power BI. I enjoy solving complex supply chain and sales problems through data storytelling.
-
+Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.
+Built end-to-end analytics projects covering data cleaning, SQL modeling, business dashboards and Automation, with a strong focus on supply chain and sales analytics.
 ---
 
 ### 🛠️ My Tech Stack
